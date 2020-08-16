@@ -8,6 +8,7 @@
     ],
     "require": {},
     "autoload": {
-        "files": ["library/functions.php"]
+        "files": ["library/functions.php"],
+        "classmap": ["classmap"]
     }
 }
