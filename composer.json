@@ -1,0 +1,13 @@
+{
+    "name": "habibun/composer-autoload",
+    "authors": [
+        {
+            "name": "Habibun Noby",
+            "email": "habibun.noby@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": ["library/functions.php"]
+    }
+}
