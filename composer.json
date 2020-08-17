@@ -9,6 +9,9 @@
     "require": {},
     "autoload": {
         "files": ["library/functions.php"],
-        "classmap": ["classmap"]
+        "classmap": ["classmap"],
+        "psr-0": {
+            "Vegibit\\": "src/"
+        }
     }
 }
