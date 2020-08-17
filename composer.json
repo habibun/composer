@@ -12,6 +12,9 @@
         "classmap": ["classmap"],
         "psr-0": {
             "Vegibit\\": "src/"
+        },
+        "psr-4": {
+            "App\\": "src/VegibitPS4/"
         }
     }
 }
