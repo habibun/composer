@@ -1,2 +1,2 @@
-# composer-autoload
-Composer Autoloading
+# composer
+* Composer Autoloading
