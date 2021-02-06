@@ -1,2 +1,2 @@
 # composer
-* Composer Autoloading
+* Autoloading
